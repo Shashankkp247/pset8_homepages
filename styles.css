@@ -1,0 +1,107 @@
+h1
+{
+    color: red;
+    font-family: monospace;
+    text-align: center;
+    font-size: 850%;
+    background-color: #058aff;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+
+#main
+{
+    background-color: black;
+    color: red;
+    text-align: left;
+    font-family: monospace;
+    font-size: 150%;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#linker1
+{
+    background-color: black;
+    color: red;
+    text-align: left;
+    font-family: monospace;
+    font-size: 150%;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#linker2
+{
+    background-color: black;
+    color: red;
+    text-align: left;
+    font-family: monospace;
+    font-size: 150%;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#idk
+{
+    background-color: black;
+    color: red;
+    text-align: left;
+    font-family: monospace;
+    font-size: 150%;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#b
+{
+    background-color: black;
+    color: red;
+    text-align: left;
+    font-family: monospace;
+    font-size: 150%;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+
+#promote
+{
+    color: red;
+    background-color: black;
+    text-align: left;
+    font-family: monospace;
+    font-size: 150%;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#feedback2
+{
+    color: red;
+    background-color: black;
+    text-align: center;
+    font-family: monospace;
+    font-size: 100%;
+}
+
+.section
+{
+    color: black;
+    background-color: yellow;
+    text-align: center;
+    font-family: monospace;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#feedback2
+{
+    font-family: cursive;
+    text-align: center;
+    font-size: 1000%;
+    background-color: #058aff;
+    margin-top: 50px;
+}
